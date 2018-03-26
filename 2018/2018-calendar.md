@@ -17,6 +17,10 @@ Monday, April 2. Ann Arbor City Council regular meeting, 7pm, Ann Arbor City Hal
 
 Monday, April 2. NCAA Basketball champtionship.  9:20 p.m in San Antonio, TX.
 
+Friday, April 6. Fool Moon.
+
+Sunday, April 8. Festifools.
+
 Monday, April 9. Ann Arbor City Council working session, 7pm, Ann Arbor City Hall.
 
 Monday, April 9. Last day to register to vote for May 8 election.
