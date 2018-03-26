@@ -12,6 +12,8 @@ Monday, April 2. Ann Arbor City Council regular meeting, 7pm, Ann Arbor City Hal
 
 Monday, April 9. Ann Arbor City Council working session, 7pm, Ann Arbor City Hall.
 
+Monday, April 9. Last day to register to vote for May 8 election.
+
 Monday, April 16. Ann Arbor City Council regular meeting, 7pm, Ann Arbor City Hall.
 
 ## May 2018
@@ -23,3 +25,5 @@ Tuesday, May 8. Ann Arbor Public Schools district will vote on a tax proposal.
 Sunday May 20. Ann Arbor Creativity & Making Expo (AACME) 12-5pm at the Ann Arbor downtown library.
 
 * https://aadl.org/node/366818
+
+## June 2018
