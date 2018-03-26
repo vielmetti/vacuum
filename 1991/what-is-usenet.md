@@ -453,8 +453,9 @@ Take a walk in the park, go rent a good movie, take a nice long bath
 by candlelight, or call up a relative you haven't talked to for a long
 time.  Spend some time away from the net.  You deserve it.
 
+```
 -- 
 Edward Vielmetti, vice president for research, MSEN Inc. emv@msen.com
        MSEN, Inc. 628 Brooks Ann Arbor MI 48103 +1 313 998 4562
    "Gigabits are not needed where rice is lacking!" Bob Sutterfield
-
+```
