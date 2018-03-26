@@ -1,5 +1,8 @@
 # 2018 calendar
 
+It's hopeless to try to keep track of everything, but at the very least this tries
+to keep mention of events that are mentioned in the newsletter.
+
 ## March 2018
 
 Wednesday, March 28. Orchestructure (Cloud Native Computing Foundation) meetup, 6pm, Workantile.
@@ -27,3 +30,7 @@ Sunday May 20. Ann Arbor Creativity & Making Expo (AACME) 12-5pm at the Ann Arbo
 * https://aadl.org/node/366818
 
 ## June 2018
+
+## In other calendars
+
+* Ann Arbor Observer http://annarborobserver.com/eventbody.html
