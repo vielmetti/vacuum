@@ -13,19 +13,27 @@ Saturday, March 31. 6:09 p.m. ET — No. 3 Michigan vs. No. 11 Loyola (Chicago) 
 
 ## April 2018
 
+Sunday, April 1. Easter.
+
 Monday, April 2. Ann Arbor City Council regular meeting, 7pm, Ann Arbor City Hall.
 
 Monday, April 2. NCAA Basketball champtionship.  9:20 p.m in San Antonio, TX.
 
 Friday, April 6. Fool Moon.
 
+* https://wonderfoolproductions.org/foolmoon/
+
 Sunday, April 8. Festifools.
+
+* https://wonderfoolproductions.org/festifools/
 
 Monday, April 9. Ann Arbor City Council working session, 7pm, Ann Arbor City Hall.
 
 Monday, April 9. Last day to register to vote for May 8 election.
 
 Monday, April 16. Ann Arbor City Council regular meeting, 7pm, Ann Arbor City Hall.
+
+Monday, April 16. Federal income tax deadline.
 
 ## May 2018
 
