@@ -9,9 +9,13 @@ Wednesday, March 28. Orchestructure (Cloud Native Computing Foundation) meetup, 
 
 * https://www.meetup.com/orchestructure/
 
+Saturday, March 31. 6:09 p.m. ET — No. 3 Michigan vs. No. 11 Loyola (Chicago) in San Antonio, TX.
+
 ## April 2018
 
 Monday, April 2. Ann Arbor City Council regular meeting, 7pm, Ann Arbor City Hall.
+
+Monday, April 2. NCAA Basketball champtionship.  9:20 p.m in San Antonio, TX.
 
 Monday, April 9. Ann Arbor City Council working session, 7pm, Ann Arbor City Hall.
 
