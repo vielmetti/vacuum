@@ -23,9 +23,10 @@ Friday, April 6. Fool Moon.
 
 * https://wonderfoolproductions.org/foolmoon/
 
-Saturday, April 7. Hash Bash.
+Saturday, April 7. Hash Bash and Monroe Street Fair.
 
 * https://www.hashbash.com/
+* https://monroestreetfair.com/
 
 Sunday, April 8. Festifools.
 
