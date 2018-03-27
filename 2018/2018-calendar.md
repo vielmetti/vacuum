@@ -50,3 +50,4 @@ Sunday May 20. Ann Arbor Creativity & Making Expo (AACME) 12-5pm at the Ann Arbo
 ## In other calendars
 
 * Ann Arbor Observer http://annarborobserver.com/eventbody.html
+* Current Magazine (eCurrent) http://www.ecurrent.com/calendar/#!/
