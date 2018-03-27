@@ -23,6 +23,10 @@ Friday, April 6. Fool Moon.
 
 * https://wonderfoolproductions.org/foolmoon/
 
+Saturday, April 7. Hash Bash.
+
+* https://www.hashbash.com/
+
 Sunday, April 8. Festifools.
 
 * https://wonderfoolproductions.org/festifools/
