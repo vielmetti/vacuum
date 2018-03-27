@@ -51,3 +51,6 @@ Sunday May 20. Ann Arbor Creativity & Making Expo (AACME) 12-5pm at the Ann Arbo
 
 * Ann Arbor Observer http://annarborobserver.com/eventbody.html
 * Current Magazine (eCurrent) http://www.ecurrent.com/calendar/#!/
+* Ann Arbor District Library events https://aadl.org/events
+* U of Michigan academic year calendar http://ro.umich.edu/calendar/
+* U of Michigan Libraries events https://www.lib.umich.edu/events
