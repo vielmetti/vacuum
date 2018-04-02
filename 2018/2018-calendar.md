@@ -9,7 +9,7 @@ Wednesday, March 28. Orchestructure (Cloud Native Computing Foundation) meetup, 
 
 * https://www.meetup.com/orchestructure/
 
-Saturday, March 31. 6:09 p.m. ET — No. 3 Michigan vs. No. 11 Loyola (Chicago) in San Antonio, TX.
+Saturday, March 31. 6:09 p.m. ET — No. 3 Michigan vs. No. 11 Loyola (Chicago) in San Antonio, TX. Michigan won.
 
 ## April 2018
 
@@ -17,7 +17,7 @@ Sunday, April 1. Easter.
 
 Monday, April 2. Ann Arbor City Council regular meeting, 7pm, Ann Arbor City Hall.
 
-Monday, April 2. NCAA Basketball champtionship.  9:20 p.m in San Antonio, TX.
+Monday, April 2. NCAA Basketball champtionship.  9:20 p.m in San Antonio, TX. Michigan vs Villanova.
 
 Friday, April 6. Fool Moon.
 
@@ -51,6 +51,8 @@ Sunday May 20. Ann Arbor Creativity & Making Expo (AACME) 12-5pm at the Ann Arbo
 * https://aadl.org/node/366818
 
 ## June 2018
+
+Sunday, June 3. Dexter-Ann Arbor Run.
 
 ## In other calendars
 
