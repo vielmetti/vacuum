@@ -5,11 +5,7 @@ to keep mention of events that are mentioned in the newsletter.
 
 ## April 2018
 
-Monday, April 16. Ann Arbor City Council regular meeting, 7pm, Ann Arbor City Hall.
-
-Monday, April 16. Ann Arbor City Council watching party, 7pm, Workantile.
-
-Tuesday, April 17. Federal income tax deadline.
+Monday, April 23. Ann Arbor City Council special meeting, 7pm, Ann Arbor City Hall.
 
 ## May 2018
 
