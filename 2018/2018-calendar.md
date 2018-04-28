@@ -3,17 +3,20 @@
 It's hopeless to try to keep track of everything, but at the very least this tries
 to keep mention of events that are mentioned in the newsletter.
 
-## April 2018
-
-Monday, April 23. Ann Arbor City Council special meeting, 7pm, Ann Arbor City Hall.
-
 ## May 2018
 
-Sunday, May 6. Water Hill Music Fest. http://waterhill.org
+Tuesday, May 1. Ann Arbor City Council special meeting, Y Lot. 5 pm, City Council chambers
+
+Tuesday, May 1. Ann Arbor City Planning Commission regular meeting. 7 pm, City Council chambers
+
+Sunday, May 6. Water Hill Music Fest. 
+
+* http://waterhill.org
 
 Tuesday, May 8. Ann Arbor Public Schools district will vote on a tax proposal. 
 
 * https://www.a2gov.org/departments/city-clerk/Elections/Pages/Elections.aspx
+* http://legislature.mi.gov/doc.aspx?mcl-168-759 - Absentee ballot law
 
 Sunday May 20. Ann Arbor Creativity & Making Expo (AACME) 12-5pm at the Ann Arbor downtown library.
 
