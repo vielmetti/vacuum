@@ -21,7 +21,9 @@ too many details of why things were as they were, the easiest way to open
 the drawer without a manager was to ring up a sale that gave away a tub of
 barbecue sauce for McNuggets and nothing else.  
 
+```
    (Hit <promo> <barbecue> <promo> <total> .)
+```
 
 Of course, that messed up the daily statistics some.
 
