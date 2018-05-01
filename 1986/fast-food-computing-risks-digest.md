@@ -2,6 +2,7 @@
 Subject: Fast-Food Computing
 From: <Edward_Vielmetti@um.cc.umich.edu>
 Date: Tue, 16 Dec 86 16:15:04 EST
+Published: Risks Digest 4.30
 ---
 I must have been in the cycle early for McDonald's fast-food intelligent
 man-machine systems, according to Guthery's law:
@@ -28,3 +29,5 @@ barbecue sauce for McNuggets and nothing else.
 Of course, that messed up the daily statistics some.
 
 Edward Vielmetti, Ex-McDonalds employee, Computing Center Microgroup, U. Mich.
+
+from Risks Digest, archived at http://catless.ncl.ac.uk/risks/4.30.html#subj7
