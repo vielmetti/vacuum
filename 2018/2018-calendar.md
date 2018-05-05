@@ -20,6 +20,8 @@ Sunday May 20. Ann Arbor Creativity & Making Expo (AACME) 12-5pm at the Ann Arbo
 
 * https://aadl.org/node/366818
 
+Tuesday May 22. First Cobblestone Farm Market of the season, 4-7pm.
+
 ## June 2018
 
 Saturday, June 2. "Live on Washington".
