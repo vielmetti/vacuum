@@ -5,13 +5,11 @@ to keep mention of events that are mentioned in the newsletter.
 
 ## May 2018
 
-Tuesday, May 1. Ann Arbor City Council special meeting, Y Lot. 5 pm, City Council chambers
-
-Tuesday, May 1. Ann Arbor City Planning Commission regular meeting. 7 pm, City Council chambers
-
 Sunday, May 6. Water Hill Music Fest. 
 
 * http://waterhill.org
+
+Monday, May 7. Regular meeting of Ann Arbor City Council, City Hall, Council Chambers (2d floor).
 
 Tuesday, May 8. Ann Arbor Public Schools district will vote on a tax proposal. 
 
@@ -24,7 +22,17 @@ Sunday May 20. Ann Arbor Creativity & Making Expo (AACME) 12-5pm at the Ann Arbo
 
 ## June 2018
 
+Saturday, June 2. "Live on Washington".
+
 Sunday, June 3. Dexter-Ann Arbor Run.
+
+Sunday, June 3. Taste of Ann Arbor.
+
+Monday, June 4. Streets closed for Top of the Park until July 4.
+
+June 15. Tech Trek.
+
+June 21-22. The Event on Main.
 
 ## In other calendars
 
