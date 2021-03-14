@@ -1,7 +1,8 @@
 # Delay Line issue 001
+
 ## Edward Vielmetti, Ann Arbor, MI 48104
 
-### In this issue:
+### In this issue
 
 * Welcome and what this is about
 * Nostalgia for the past of the Internet
@@ -39,7 +40,7 @@ circa about 1993, back in the day when the World Wide Web was just
 forming, before the BLINK tag, and when Gopher was still viable.
 You could imagine any future of the net and it just might come true.
 
-## The history of the future of news 
+## The history of the future of news
 
 The history of the future of news has quite a bit of fiction in it
 and some very useful fact.  I'll share the facts first, since the
@@ -82,19 +83,19 @@ neighbor going on a network-assisted vendetta, so I guess you need
 to make good friends with your neighbors in this particular hyperlocal
 future.
 
-## Distributed systems vs centralized 
+## Distributed systems vs centralized
 
 Call me old-fashioned, I guess, but when I think of a future of news,
 I really want to be a wire service editor, with way too much copy
 streaming into my own desktop and lots of flexible tools to store
-it and sift through it and send back updates to be distributed 
+it and sift through it and send back updates to be distributed
 elsewhere.  We've lost in this late 2000s web 2.0 era of the net
 quite a bit of the distributed systems world view that characterized
 the 80s and 90s, and instead of world-wide confederations of independent
 systems we have Google and Twitter and Yahoo and Facebook.  Allow
 me to be irritated by that just long enough to want to fix it.
 
-## Re-establishing old connections 
+## Re-establishing old connections
 
 A piece of my goal for this effort is to reconnect on my own terms
 with people who have faded out from the nets that I watch just because
@@ -115,25 +116,24 @@ were my teachers in this world have retired, and a few have passed
 away, and my upstart peers trying to overthrow the world of bisync
 with their analog modems are getting gray.
 
-## Terms and conditions 
+## Terms and conditions
 
 Unlike other things I've put together in the past, Delay Line
 is not free.   You have to pay something to get it in your
 hands.  I'll accept barter of many things, and won't insist
 on specific amounts, but at the very least you should be prepared
 to buy me a very fine lunch in order to get this.  Perhaps indeed
-you'll be introduced to others who have bought that same very 
+you'll be introduced to others who have bought that same very
 fine lunch.
 
-
-### References 
+### References
 
 "Borrowed nostalgia for the unremembered 80s" is a line from
 LCD Soundsystem's "I'm Losing My Edge", a good theme song for
 this issue.
 
 Lloyd Dunn's "Photostatic 1983-1993" is a retrospective archive.
-http://psrf.detritus.net/
+<http://psrf.detritus.net/>
 
 Lou Montulli gets blame for the BLINK tag.
 
@@ -150,7 +150,7 @@ running on an Apple under A/UX.
 Negroponte wrote of "predictive models" for human behavior, which
 is just about enough motivation for me to smash the machine right there.
 
-### Credits 
+### Credits
 
 Copyright 2009 Edward Vielmetti.  
 
