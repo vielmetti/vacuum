@@ -9,10 +9,16 @@ theme = "tale"
     name = "Welcome"
     title = "Welcome"
     url = "/2021/0001-welcome/"
-    weight = 0
+    weight = 1
   [[menu.main]]
     identifier = "subscribe"
     name = "Subscribe"
     title = "Subscribe"
     url = "https://groups.io/g/vacuum"
-    weight = 0
+    weight = 2 
+  [[menu.main]]
+    identifier = "Github"
+    name = "Github"
+    title = "Github"
+    url = "https://github.com/vielmetti/vacuum"
+    weight = 3 
