@@ -1,5 +1,6 @@
 ---
 title: Welcome to a new version of an old newsletter, "Vacuum"
+author: Ed Vielmetti
 date: 2021-03-13
 ---
 After starting and stopping several newsletters and mailing lists and
