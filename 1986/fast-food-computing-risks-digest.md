@@ -1,4 +1,5 @@
 ---
+title: Fast-Food Computing (Risks Digest 4.30, 1986)
 Subject: Fast-Food Computing
 From: <Edward_Vielmetti@um.cc.umich.edu>
 Date: Tue, 16 Dec 86 16:15:04 EST
@@ -12,7 +13,7 @@ man-machine systems, according to Guthery's law:
 
 McDonald's fast food computers (i.e., cash registers) collect all sorts of
 data on the individual employee at the counter and on all counter sales as a
-whole.  They also do not have a <no sale> key that opens up the cash
+whole.  They also do not have a "no sale" key that opens up the cash
 register, probably to prevent theft.  That made it real hard to fix a
 mistake without calling a manager to get a key to open the drawer.
 
@@ -22,12 +23,10 @@ too many details of why things were as they were, the easiest way to open
 the drawer without a manager was to ring up a sale that gave away a tub of
 barbecue sauce for McNuggets and nothing else.  
 
-```
-   (Hit <promo> <barbecue> <promo> <total> .)
-```
+> (Hit "promo" "barbecue" "promo" "total" .)
 
 Of course, that messed up the daily statistics some.
 
 Edward Vielmetti, Ex-McDonalds employee, Computing Center Microgroup, U. Mich.
 
-from Risks Digest, archived at http://catless.ncl.ac.uk/risks/4.30.html#subj7
+from Risks Digest, archived at <http://catless.ncl.ac.uk/risks/4.30.html#subj7>
