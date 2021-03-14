@@ -50,3 +50,5 @@ abstractions.
 I'll be testing out the idea that writing regularly for a small engaged
 audience is its own superpower, and I hope to learn as much from you
 all as I share a journey to understand.
+
+Edward Vielmetti, Ann Arbor MI, March 2021
