@@ -43,7 +43,7 @@ have the determined will to explain what it is by what it is not?
 Any essay on the purpored "nature of usenet" that doesn't get revised
 every few months quickly becomes a quaint historical document, which
 at best yields a prescriptivist grammar for how the net "should be"
-and at worst tries to shape how the Usenet "really is". 
+and at worst tries to shape how the Usenet "really is".
 
 The first thing to understand about Usenet is that it is big.  Really
 big.  Netnews (and netnews-like things) have percolated into many more
@@ -275,8 +275,8 @@ it's going to be used in the real world.
 >WHAT USENET IS
 >--------------
 
-		"Usenet is like Tetris for people who still remember
-		 how to read."		J.Heller
+  "Usenet is like Tetris for people who still remember
+   how to read."  J.Heller
 
 Usenet is in part about people.  There are people who are "on the
 net", who read rec.humor.funny every so often, who know the same jokes
@@ -328,16 +328,16 @@ is probably in violation of some network use policy or local ordinance
 in some state or municipality.
 
 >CONTROL
->------- 
-		1.  Keep the processors up and running, and make sure there's
-		    enough disk space for netnews.  
-	    	2.  Keep the network up and running so that the
-		    newsfeed comes in.  
-		3.  Install new newsreaders, get more feeds of more
-		    groups, test out the latest filtering code.
-		4.  Plan for getting more disks	so you can keep more
-		    news and index it all.  
-		5.  Read news (if there's time).
+>-------
+  1.  Keep the processors up and running, and make sure there's
+      enough disk space for netnews.  
+      2.  Keep the network up and running so that the
+      newsfeed comes in.  
+  3.  Install new newsreaders, get more feeds of more
+      groups, test out the latest filtering code.
+  4.  Plan for getting more disks so you can keep more
+      news and index it all.  
+  5.  Read news (if there's time).
 
 Some people are control freaks.  They want to present their opinion of
 how things are, who runs what, what is OK and not OK to do, which
@@ -363,12 +363,11 @@ neighbor's spool directory.  Pleading, cajoling, appealing to good
 nature, or paying your news feed will generally yield a better
 response than flames on the net.
 
-
 >PERIODIC POSTINGS
 >-----------------
 
-		"I've already explained this once, but repetition is
-		the very soul of the net."		(from alt.config)
+  "I've already explained this once, but repetition is
+  the very soul of the net."  (from alt.config)
 
 One of the ways to exert control over the workings of the net is to
 take the time to put together a relatively accurate set of answers to
@@ -390,7 +389,6 @@ way.
 
 PROPAGATION
 -----------
-
 
 In the olden days, when the net was young, and you could still read it
 at 300 baud on a dumb terminal without a news reader and get work done
@@ -417,10 +415,10 @@ because, after all, you're paying for it.
 NEWSGROUP CREATION
 ------------------
 
-		  "If there are enough people who want to talk about
-		  Joey and the Shralpers coming to you from East
-		  Podunk, Ohio, and they vote and it passes, well,
-		  dammit, they get a  newsgroup."		jamie@digex.com
+    "If there are enough people who want to talk about
+    Joey and the Shralpers coming to you from East
+    Podunk, Ohio, and they vote and it passes, well,
+    dammit, they get a  newsgroup."  jamie@digex.com
 
 It takes about two months, playing by the rules, to create a new
 newsgroup.  Pick a name, write a charter, circulate it for opinions,
@@ -439,14 +437,14 @@ call the question.
 
 Chances are, some one is already talking about some of the stuff
 you're interested in in one of the 2000-odd newsgroups and equally
-many mailing lists there are out on the net.  The purpose of all this 
+many mailing lists there are out on the net.  The purpose of all this
 vote-gathering is to get the word out to them that there's some new
 niche appearing to discuss things and if they want to get involved
 here's the way to do it.  If your proposed niche collides with someone
 else's happy mail list or if it runs up too close to a hot newsgroup
 argument be prepared for an unhappy vote-counting time.
 
-IF YOU ARE UNHAPPY...
+IF YOU ARE UNHAPPY
 ---------------------
 
 Take a walk in the park, go rent a good movie, take a nice long bath
