@@ -2,3 +2,17 @@
 languageCode = "en-us"
 title = "Vacuum from Edward Vielmetti"
 theme = "tale"
+
+[menu]
+  [[menu.main]]
+    identifier = "Welcome"
+    name = "Welcome"
+    title = "Welcome"
+    url = "/2021/0001-welcome/"
+    weight = 0
+  [[menu.main]]
+    identifier = "subscribe"
+    name = "Subscribe"
+    title = "Subscribe"
+    url = "https://groups.io/g/vacuum"
+    weight = 0
