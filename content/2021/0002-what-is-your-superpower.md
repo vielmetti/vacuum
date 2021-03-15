@@ -13,12 +13,12 @@ know yet what that superpower is, but once you discover
 it there's an opportunity to build on top of it.
 
 In the past I've picked up some of my own little habits
-that accumulated over time look like superpowers, in their
+that accumulated over time that look like superpowers, in their
 own way.
 
 ## Postcards
 
-I writing postcards to people who send me postcards in return.
+I like writing postcards to people who send me postcards in return.
 This is a fun way to have slow-motion correspondence as well
 as to keep a stream of pictures to put up on the fridge.
 
@@ -38,7 +38,7 @@ write in the air.
 ## Paper rolodexes
 
 I keep a few paper Rolodexes to go with my electronic directories.
-Even the best of the contact managements tools can't beat the
+Even the best of the contact management tools can't beat the
 tactile discovery of hand-written notes about your friends,
 acquaintances, and colleagues - little cards to jog your memory.
 
@@ -52,7 +52,7 @@ in Silicon Valley. LinkedIn ate your carefully constructed list
 of professional colleagues, and sold it back to you.
 
 Paper rolodexes are awkward, bulky, hard to find and easy to
-get out of date. They will never be as shiny as a LinkedIn.
+get out of date. They will never be as shiny as LinkedIn.
 That said they are great and I highly recommend the next time
 you find yourself in a thrift store to see if you can score one.
 
@@ -79,7 +79,7 @@ The economy got better, and the restaurant closed, and the lunch
 group got a lot smaller - mostly people who were either working
 independently or who are retired. The pandemic stopped our in-person
 meetings but we carry on with Zoom. I can't always make lunch
-because of the current jobby-job but I try, and I look forward
+because of my current jobby-job but I try, and I look forward
 to seeing folks again.
 
 ## Writing for publication
@@ -88,7 +88,7 @@ At one time, I regularly met a daily 500 word noon deadline. I'm not
 sure yet how I'd do that again, but I'd love to try.
 
 There was a time that I could reasonably sit down in a cafe,
-order a fine cup of coffee, and produce a publishable work at
+order a fine cup of coffee, and produce publishable work at
 about the cost of a penny of coffee per word. Fancy coffee
 and the warm ambiance of a cafe both helped this effort. I
 haven't yet determined how to replace the cafe in my own
@@ -98,8 +98,8 @@ There's a lot to be said for the German word "sitzfleisch",
 the ability to sit still for a long time and focus on one
 task. Writing takes focus and stamina and that's very hard
 to find in a world of continuous interruption and
-continuous partial attention.
-
+[continuous partial attention].
+[continuous partial attention]:https://lindastone.net/2009/11/30/beyond-simple-multi-tasking-continuous-partial-attention/
 ## Bug finding and fixing
 
 Filing and fixing bugs - that's more for another story, since it's a
@@ -121,7 +121,7 @@ far, far away from the observed behavior. My favorite was
 the [go pagesize bug on arm64]. The observation was that Docker
 was mysteriously crashing in CI/CD environments. The code revealed
 eventually that Go was picking a fixed page size, and while that
-contstant was correct in RHEL and CentOS, it was wrong on Ubuntu.
+constant was correct in RHEL and CentOS, it was wrong on Ubuntu.
 The fix involved writing the necessary tests to make the crashes
 repeatable and not mysterious.
 
