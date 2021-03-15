@@ -99,7 +99,9 @@ the ability to sit still for a long time and focus on one
 task. Writing takes focus and stamina and that's very hard
 to find in a world of continuous interruption and
 [continuous partial attention].
+
 [continuous partial attention]:https://lindastone.net/2009/11/30/beyond-simple-multi-tasking-continuous-partial-attention/
+
 ## Bug finding and fixing
 
 Filing and fixing bugs - that's more for another story, since it's a
