@@ -1,4 +1,5 @@
 # baseURL = "http://example.org/"
+baseURL = "https://vacuum-group.netlify.app/"
 languageCode = "en-us"
 title = "Vacuum from Edward Vielmetti"
 theme = "tale"
