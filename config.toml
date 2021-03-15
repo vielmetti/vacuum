@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Vacuum from Edward Vielmetti"
 theme = "tale"
 
+[outputs]
+  home = [ "HTML", "RSS", "JSON" ]
+
 [menu]
   [[menu.main]]
     identifier = "Welcome"
