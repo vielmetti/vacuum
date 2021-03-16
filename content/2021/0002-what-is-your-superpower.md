@@ -1,7 +1,6 @@
 ---
 title: What is your superpower?
 date: 2021-03-14
-draft: true
 author: Ed Vielmetti
 ---
 What's your superpower, and what routine do you do to invoke it?
