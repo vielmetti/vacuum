@@ -1,7 +1,7 @@
 ---
 title: Writing in Markdown
-weight: 0008
-draft: true
+author: Ed Vielmetti
+date: 2021-03-21
 ---
 One of the themes of this newsletter is tools that give you
 superpowers. I'd like to convince you that the Markdown markup
